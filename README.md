@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project is a fully responsive dashboard built exclusively with HTML and CSS, showcasing a sleek, modern design optimized for various screen sizes. The dashboard offers a clean and intuitive user interface, providing a seamless user experience across desktops, tablets, and mobile devices.
+This project is a fully responsive dashboard built exclusively with HTML and CSS, showcasing a sleek, modern design optimized for various screen sizes. The dashboard offers a clean and intuitive user interface, providing a seamless user experience across desktops, tablets, and mobile devices. <br>
 <a href="http://eduhunt-dashboard.com/" align="center">Live Preview</a>
 
 
